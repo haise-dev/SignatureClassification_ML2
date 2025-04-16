@@ -56,3 +56,8 @@ Metrics and training curves were logged and visualized.
 Evaluated the model’s performance specifically on team members' signatures.
 
 Accuracy results and analysis are included in the final report and Google Drive documentation.
+
+Some visualize graph:
+![image](https://github.com/user-attachments/assets/db816bf1-2493-4971-8781-6826627c0eea)
+![image](https://github.com/user-attachments/assets/c68f2705-e87a-49ee-b3dd-01dade944e3f)
+
